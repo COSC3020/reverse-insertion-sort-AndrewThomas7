@@ -23,6 +23,12 @@ iterating over the elements is reversed, the array is still sorted the same way
 some basic testing code that uses [jsverify](https://jsverify.github.io/) in
 `code.test.js`.
 
+“I certify that I have listed all sources used to complete this exercise, including the use
+of any Large Language Models. All of the work is my own, except where stated
+otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
+suspected, charges may be filed against me without prior notice.”-Andrew Thomas
+
+
 ## Average-Case Time Complexity of Insertion Sort
 
 In the lectures, we covered that insertion sort has best-case time complexity of
